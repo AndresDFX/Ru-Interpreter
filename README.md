@@ -15,7 +15,7 @@ Este repositorio contiene la implementacion de un un lenguaje de programacion in
 
 
 ---
-<h3><u> 2.1) Interpretador I</u></h3>
+<h3><u> 2.1) Basico I</u></h3>
 
 Este [interpretador](./Interpretador%20#1.rkt) contiene la implementacion de lo siguiente:
 
@@ -46,7 +46,7 @@ Este [interpretador](./Interpretador%20#1.rkt) contiene la implementacion de lo 
   
   
 ---
-<h3><u> 2.3) Interpretador II</u></h3>
+<h3><u> 2.3) Basico II</u></h3>
 
 Este [interpretador](./Interpretador%20#2.rkt) contiene la implementacion de lo siguiente:
 
@@ -57,7 +57,7 @@ Este [interpretador](./Interpretador%20#2.rkt) contiene la implementacion de lo 
 - Tipo de datos.
   
 
-<h3><u> 2.3) Interpretador III</u></h3>
+<h3><u> 2.3) Basico III</u></h3>
 
 Este [interpretador](./Interpretador%20#2.rkt) contiene la implementacion de lo siguiente:
 
